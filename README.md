@@ -19,7 +19,7 @@
 - If the meetup has ended, then tag the release with `{HACKWARE_VERION}`
 
   ```sh
-  #git tag -a {HACKWARE_VERION} -m "Hackware {HACKWARE_VERION}" # template
+  #git tag -a {HACKWARE_VERSION} -m "Hackware {HACKWARE_VERSION}" # template
   git tag -a v1.4 -m "Hackware v1.4"` # example
   git push --tags
   ```
