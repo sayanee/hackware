@@ -20,7 +20,7 @@
 
   ```sh
   #git tag -a {HACKWARE_VERSION} -m "Hackware {HACKWARE_VERSION}" # template
-  git tag -a v1.4 -m "Hackware v1.4"` # example
+  git tag -a v1.4 -m "Hackware v1.4" # example
   git push --tags
   ```
   
