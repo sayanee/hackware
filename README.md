@@ -50,3 +50,18 @@
     - no questions so that the entire meetup ends early and attendees can hangout longer
     - run a stopwatch for each speaker
     - encourage post-meetup hangout and sharing after all the talks are done
+
+## Role of organizers
+
+- Online: 1 hour mostly online every month
+    - find speakers
+    - find venue
+- Offline: Attend Hackware every month
+    - venue coordinator
+    - time keeper
+    - social media updater
+    - emcee
+- Teamwork
+    - We cover each other when one is busy or not able to attend Hackware
+- Fun times
+    - To learn about hardware, make friends, get to know the speakers, increase community awareness and knowledge!
