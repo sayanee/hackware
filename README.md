@@ -18,12 +18,11 @@
 
 1. Search for `EDIT` in file `index.html`
 1. If the meetup has ended, then tag the release with `{HACKWARE_VERION}`
-
-  ```sh
-  #git tag -a {HACKWARE_VERSION} -m "Hackware {HACKWARE_VERSION}" # template
-  git tag -a v1.4 -m "Hackware v1.4" # example
-  git push --tags
-  ```
+    ```sh
+    # git tag -a {HACKWARE_VERSION} -m "Hackware {HACKWARE_VERSION}" # template
+    git tag -a v1.4 -m "Hackware v1.4" # example
+    git push --tags
+    ```
 
 ## Organizing
 
