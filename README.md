@@ -30,9 +30,10 @@
     - book a venue
     - ~50 people
     - at least has a projector to display slides
+    - venue host can sponsor food, but it is not mandatory
  - 1 month:
     - start looking for speakers
-    - speaking duration: 5 / 10 / 15 minutes
+    - speaking duration: 5 / 10 / 15 / 20 minutes
     - look for speakers across various levels and topics
     - keep a lookout for new speakers
     - new speakers can be given 5 minutes for the first time and subsequently longer
@@ -46,7 +47,7 @@
  - on the day:
     - emcees can follow the slides for the flow of the meetup: http://bit.ly/hackware
     - give a speaker slot for the venue sponsor
-    - no questions so that the entire meetup ends early and attendees can hangout longer
+    - no questions for the speaker unless it is within their time slot so that the entire meetup ends early and attendees can hangout longer
     - run a stopwatch for each speaker
     - encourage post-meetup hangout and sharing after all the talks are done
 
