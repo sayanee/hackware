@@ -7,8 +7,7 @@
 ## Initial setup
 
 1. Install npm which is part of node if you don't have it already. If you are using a Mac with brew, you can use `brew install node`.
-
-2. Install packages `npm i`
+1. Install packages `npm i`
 
 ## Running the slides
 
@@ -17,28 +16,28 @@
 
 ## Edit slides
 
-1. Search for `EDIT` in file `index.html` 
-- If the meetup has ended, then tag the release with `{HACKWARE_VERION}`
+1. Search for `EDIT` in file `index.html`
+1. If the meetup has ended, then tag the release with `{HACKWARE_VERION}`
 
   ```sh
   #git tag -a {HACKWARE_VERSION} -m "Hackware {HACKWARE_VERSION}" # template
   git tag -a v1.4 -m "Hackware v1.4" # example
   git push --tags
   ```
-  
-## Organizing 
- 
- - 2 months: 
+
+## Organizing
+
+ - 2 months:
     - book a venue
     - ~50 people
     - at least has a projector to display slides
- - 1 month: 
+ - 1 month:
     - start looking for speakers
     - speaking duration: 5 / 10 / 15 minutes
     - look for speakers across various levels and topics
     - keep a lookout for new speakers
     - new speakers can be given 5 minutes for the first time and subsequently longer
- - 1 month: 
+ - 1 month:
     - create event pages in [meetup.com](https://www.meetup.com/Hackware/) and [facebook](https://www.facebook.com/groups/hackware/)
     - agenda includes the time and speaker names
  - 2 weeks:
@@ -51,4 +50,3 @@
     - no questions so that the entire meetup ends early and attendees can hangout longer
     - run a stopwatch for each speaker
     - encourage post-meetup hangout and sharing after all the talks are done
-
