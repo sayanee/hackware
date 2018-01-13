@@ -57,7 +57,7 @@
     - find speakers
     - find venue
 - Offline: Attend Hackware every month
-    - venue coordinator: confirm venue
+    - venue coordinator: confirm venue and add events to meetup / facebook
     - time keeper
     - social media updater
     - emcee
