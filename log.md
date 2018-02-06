@@ -3,4 +3,4 @@
 | Hackware | Venue | Timer | Emcee | Social Media | Others |
 | ------ | ------ | ------ | ------ | ------ | ------ |
 | v3.7 <br> 2 Jan Tue | SL2 @UWSEA East by Fazli | Fazli | Chinmay | Sayanee | Engineers.sg - Kheng Meng |
-| v3.8 <br> 6 Feb Tue | Carousell @Keppel Towers 2 by Luther |  |  |  | Speaker - Kheng Meng |
+| v3.8 <br> 6 Feb Tue | Carousell @Keppel Towers 2 by Luther | Chinmay | Fazli | Sayanee | Speaker - Kheng Meng |
